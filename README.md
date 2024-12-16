@@ -1,2 +1,7 @@
 # Project_Work_Asset_Management
-Jupyter file
+Jupyter file del Project Work di asset management.
+Dependencies: - pandas
+              - NumPy
+              - matplotlib
+              - seaborn
+              - scipy
