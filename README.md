@@ -1,5 +1,5 @@
 # Project_Work_Asset_Management
-Jupyter file del Project Work di asset management.
+Jupyter file of the Project Work on asset management.
 ## Dependencies: 
               - pandas
               - NumPy
