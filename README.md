@@ -1,5 +1,5 @@
 # Project_Work_Asset_Management
-Jupyter file of the Project Work on asset management.
+Jupyter file of the project work on asset management. The project consists of analyzing asset allocation for five assets using the Markowitz model with constraints, the Capital Asset Pricing Model (CAPM), and the Black-Litterman model.
 ## Dependencies: 
               - pandas
               - NumPy
